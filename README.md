@@ -21,7 +21,7 @@ Each folder typically represents a day or topic from the playlist.
 ---
 ## Screenshots of my project 
 <img width="1919" height="978" alt="Screenshot 2025-07-22 145227" src="https://github.com/user-attachments/assets/aebd0f69-877d-4e26-9497-280f8e18466a" />
-
+![alt text](image.png)
 ---
 ## 🛠️ What I'm Learning
 
