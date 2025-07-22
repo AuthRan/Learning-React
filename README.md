@@ -1,2 +1,58 @@
 # Learning-React
 This is a repo consisting of all the files i worked upon while learning react including small projects as well
+
+# 🚀 React JS Journey — Chai aur Code
+
+Welcome to my personal React learning repo!  
+This repo contains all the projects, practice code, and mini assignments I built while learning **React.js** from the **Chai aur Code** YouTube channel by Hitesh Choudhary.
+
+---
+
+## 🧠 What is this repo?
+
+This is a collection of:
+- Mini projects
+- Practice components
+- Core React concepts (hooks, props, state, etc.)
+- Custom experiments
+
+Each folder typically represents a day or topic from the playlist.
+
+---
+## Screenshots of my project 
+
+
+---
+## 🛠️ What I'm Learning
+
+✅ JSX  
+✅ Components  
+✅ Props and Prop Drilling  
+✅ State (`useState`)  
+✅ Events and Re-rendering  
+✅ Hooks (`useEffect`, etc.)  
+✅ Conditional Rendering  
+✅ Lists and Keys  
+✅ Forms and Inputs  
+✅ Basic Routing (React Router DOM)  
+✅ Custom Hooks *(soon)*  
+✅ Context API *(upcoming)*
+
+---
+
+## 📁 Folder Structure (Example)
+
+```bash
+/01-basic-jsx
+  - App.jsx
+  - index.html
+
+/02-useState-counter
+  - App.jsx
+
+/03-components-and-props
+  - Message.jsx
+  - App.jsx
+
+/...
+
