@@ -41,8 +41,10 @@ Each folder typically represents a day or topic from the playlist.
 ✅ Lists and Keys  
 ✅ Forms and Inputs  
 ✅ Basic Routing (React Router DOM)  
-✅ Custom Hooks *(soon)*  
-✅ Context API *(upcoming)*
+✅ Custom Hooks   
+✅ Context API 
+✅ Redux Toolkit ( Under process )
+✅ Mega React Process ( Under process )
 
 ---
 
