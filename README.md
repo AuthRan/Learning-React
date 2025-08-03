@@ -63,4 +63,6 @@ Each folder typically represents a day or topic from the playlist.
   - App.jsx
 
 /...
-
+```
+## Note:
+Kindly fork this and check the code yourself replacing the .env file
